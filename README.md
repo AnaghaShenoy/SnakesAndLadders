@@ -1,4 +1,4 @@
-# SnakesAndLadders# Snakes and Ladders Game
+# Snakes and Ladders Game
 
 ## Overview
 This is a Java-based implementation of the classic **Snakes and Ladders** game, designed using **Low-Level Design (LLD) principles**. The game supports **2-4 players**, including **human and bot players**, and follows the traditional rules of Snakes and Ladders.
