@@ -87,11 +87,6 @@ This is a Java-based implementation of the classic **Snakes and Ladders** game, 
 
 ---
 
-## Image
-
-![Snakes and Ladders Class Diagram](https://raw.githubusercontent.com/AnaghaShenoy/SnakesAndLadders/blob/main/Snakes%26Ladders_ClassDiagram.png))
-
-
 ## How to Run
 1. **Clone the repository**
    ```sh
